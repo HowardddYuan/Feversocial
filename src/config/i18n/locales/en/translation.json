@@ -1,0 +1,19 @@
+{
+    "todoList": {
+      "title": "Todo List",
+      "progress": "Progress {{completed}} / {{total}}",
+      "input": {
+        "placeholder": "Enter your todo item"
+      },
+      "loading": {
+        "add": "Adding...",
+        "delete": "Deleting...",
+        "update": "Updating..."
+      },
+      "error": {
+        "add": "Failed to add",
+        "delete": "Failed to delete",
+        "update": "Failed to update"
+      }
+    }
+  }

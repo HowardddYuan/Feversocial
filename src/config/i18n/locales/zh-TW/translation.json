@@ -1,0 +1,19 @@
+{
+    "todoList": {
+      "title": "待辦事項",
+      "progress": "進度 {{completed}} / {{total}}",
+      "input": {
+        "placeholder": "請輸入要完成的事項"
+      },
+      "loading": {
+        "add": "新增中...",
+        "delete": "刪除中...",
+        "update": "更新中..."
+      },
+      "error": {
+        "add": "新增失敗",
+        "delete": "刪除失敗",
+        "update": "更新失敗"
+      }
+    }
+  }

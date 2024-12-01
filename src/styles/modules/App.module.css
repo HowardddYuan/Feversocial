@@ -1,0 +1,19 @@
+.container {
+    min-height: 100vh;
+    background-color: var(--gray-color);
+    padding-top: calc(var(--spacing-lg) * 2 + var(--font-size-xl));
+    margin-top: var(--spacing-lg);
+  }
+  
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: var(--spacing-md);
+  }
+  
+  .list-container {
+    background-color: var(--background-primary);
+    border-radius: var(--radius-lg);
+    padding: var(--spacing-lg);
+    box-shadow: var(--shadow-sm);
+  }
