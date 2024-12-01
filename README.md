@@ -1,8 +1,16 @@
-# React + Vite
+# Feversocial Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+一個具有多語系支援的待辦事項清單應用程式。
 
-Currently, two official plugins are available:
+## 功能特點
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  新增、刪除、切換待辦事項狀態
+-  支援中文(zh-TW)和英文(en)語系切換
+-  操作狀態即時反饋
+
+## 技術棧
+
+- React 18
+- i18next - 多語系支援
+- CSS Modules - 樣式管理
+- CSS Variables - 主題設定
