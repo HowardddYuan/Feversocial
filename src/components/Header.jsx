@@ -10,7 +10,6 @@ export default function Header() {
         <Icon name="menu" className={styles.menuIcon} />
         <h1>{t("todoList.title")}</h1>
       </div>
-      <Icon name="setting" className={styles.settingIcon} />
 
       <div className={styles["header-right"]}>
         <button 
